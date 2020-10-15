@@ -1,3 +1,5 @@
+### Default of Credit Card Clients
+
 ## Motivation:
 
 The motivation of the project is to find a predictive model for banking system to detect if the credit card holder will make a payment or not. Initially the bank systems were mainly focused on giving more credit cards to people, however it resulted in the customers making more defaults so this model can help in predicting default customers.
